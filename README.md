@@ -10,3 +10,9 @@ My favourite stacks and tools.
 |TaiwindCSS
 |TailwindUI
 |[HyperUI](https://www.hyperui.dev)
+
+## Studying
+
+|Database|
+|--------
+|[rxDB](https://rxdb.info)
